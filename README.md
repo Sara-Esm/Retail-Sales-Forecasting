@@ -1,10 +1,5 @@
 # Sales Forecasting Using Time Series Data
 
-This project uses historical retail transaction data to predict future daily sales using machine learning techniques, specifically XGBoost. It involves preprocessing sales data, creating time-series features, training a predictive model, and evaluating its performance.
-
-
-## Project Overview
-
 - Data preprocessing to clean the dataset.
 - Feature engineering to create time-series features (e.g., lag values, rolling means).
 - Machine learning model training using XGBoost to forecast future sales.
